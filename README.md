@@ -129,7 +129,7 @@ AUTOSAR validation is traditionally rule-based and misses semantic errors. This 
 
 ### 🧑‍🎤 AI Avatar – Talking Digital Human
 <p align="center">
-  <img src="https://media.tenor.com/p0G_bmA2vSYAAAAd/ai-artificial-intelligence.gif" width="400"/>
+  <img src="https://media.tenor.com/0G_bmA2vSYAAAAd/ai-artificial-intelligence.gif" width="400"/>
 </p>
 
 🎤 Voice-to-avatar pipeline using Blender for 3D models, Bark for TTS, and Omniverse for deployment.
