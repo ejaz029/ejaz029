@@ -125,34 +125,6 @@ AUTOSAR validation is traditionally rule-based and misses semantic errors. This 
 
 ---
 
-### 🌍 Falasteen.AI
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="600"/>
-</p>
-
-🕊 Open-source platform to track war crimes, analyze media bias, and push for global action using GenAI.
-
-**Tech Stack:** Python, LangChain, FastAPI, React, MongoDB, Hugging Face Transformers
-
-**Key Features:**
-- 🔍 AI-powered evidence collection and categorization
-- 📰 Multimodal analysis of news articles and videos for bias detection
-- 🗣️ Multilingual support for global accessibility
-- 📊 Interactive dashboards for data visualization and reporting
-
-<details>
-<summary>📌 View Project Details</summary>
-
-#### Problem Solved:
-Documentation of human rights violations is often siloed and lacks structural analysis. This platform centralizes evidence and provides AI-powered analysis.
-
-#### Impact:
-- Processed over 50,000 media items
-- Created standardized documentation for international legal bodies
-- Open-sourced methodology for transparency
-
-</details>
-
 ---
 
 ### 🧑‍🎤 AI Avatar – Talking Digital Human
@@ -229,22 +201,11 @@ Traditional static analyzers miss context-dependent bugs. This tool uses LLMs to
 
 ---
 
-## 📚 Recent Blog Posts
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="300"/>
-</p>
-
-- [**LangGraph: Taking LLM Applications Beyond Simple Chains**](https://medium.com)
-- [**Ethics in AI: Building Responsible Justice Tech**](https://medium.com)
-- [**AUTOSAR Validation: Where Rule-Based Systems Fall Short**](https://medium.com)
-- [**Building Digital Humans: Technical Challenges and Solutions**](https://medium.com)
-
 ---
 
 ## 🎓 Education & Certifications
 
-- 🏫 B.Tech in Computer Science - G M Institute of Technology (Expected 2026)
+- 🏫 B.Tech in Artificial Intelligence & Machine Learning - G M Institute of Technology (Expected 2026)
 - 📜 DeepLearning.AI LLM Specialization
 - 📜 NVIDIA Deep Learning Institute - Fundamentals of Accelerated Computing
 - 📜 HuggingFace NLP Course
