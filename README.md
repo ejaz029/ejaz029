@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https:/github.com/ra2107/rajput2107/blob/maser/etseveloper.gif" width="100%" alt="header" />
+  <img src="https:/github.com/ra2107/rut2107/blob/maser/etseveloper.gif" width="100%" alt="header" />
 </p>
 
 <h1 align="center">Hey, I'm Ejaz Belgaum 👋</h1>
