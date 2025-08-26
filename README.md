@@ -23,7 +23,7 @@
 
 <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="220"/>
 
-🎓 Third-year engineering student at *G M Institute of Technology*  
+🎓 Engineering student at *G M Institute of Technology*  
 🤖 Builder of scalable GenAI solutions across *automotive software, digital justice, and interactive avatars*  
 🚀 Contributor to open-source AI projects solving global challenges  
 🧩 Passionate about merging *ethics, AI, and automation* into purpose-driven tech  
