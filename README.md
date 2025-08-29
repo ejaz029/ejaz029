@@ -18,6 +18,8 @@
 </p>
 
 ---
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ejazbelgaum010/)
 
 ## 🧠 Who Am I?
 
@@ -35,8 +37,6 @@
 </p>
 
 ---
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ejazbelgaum010/)
 
 
 ## 🔧 My Mission as a GenAI Engineer
