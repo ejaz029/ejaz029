@@ -11,10 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://ww.linkedin.com/in/ejazbelgaum010/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ejazbelgaum10@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ejaz029"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-00CED1?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ejazbelgaum010/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ejazbelgaum10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ejaz029">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-00CED1?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
 </p>
 
 ---
