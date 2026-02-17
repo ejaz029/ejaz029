@@ -38,19 +38,6 @@
 
 ---
 
-
-## 🔧 My Mission as a GenAI Engineer
-
-<p align="center">
-  <i>"Build AI systems that don't just automate — they advocate."</i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="280"/>
-</p>
-
----
-
 ## 💼 What I Work On
 
 | 💡 Domain | 💼 Work |
