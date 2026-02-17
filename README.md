@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://github.com/ejaz029/Resume-Ejaz_Belgaum">
 <img src="https://img.shields.io/badge/Resume-00CED1?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
