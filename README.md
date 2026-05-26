@@ -1,235 +1,106 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https:/github.com/ra2107/rut2107/blob/maser/etseveloper.gif" width="100%" alt="header" />
-</p>
-
-<h1 align="center">Hey, I'm Ejaz Belgaum 👋</h1>
-<h3 align="center">AI Engineer | AUTOSAR Validator Architect | GenAI & Justice Tech Explorer</h3>
+<h1 align="center">Ejaz Belgaum</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
+  <strong>AI Engineer · RAG · LangGraph · LangChain · AWS</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ejazbelgaum010/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ejazbelgaum10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ejaz029">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ejaz029/Resume-Ejaz_Belgaum">
-<img src="https://img.shields.io/badge/Resume-00CED1?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
-
-</p>
-
----
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ejazbelgaum010/)
-
-## 🧠 Who Am I?
-
-<img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="220"/>
-
-🎓 Engineering student at *G M Institute of Technology*  
-🤖 Builder of scalable GenAI solutions across *automotive software, digital justice, and interactive avatars*  
-🚀 Contributor to open-source AI projects solving global challenges  
-🧩 Passionate about merging *ethics, AI, and automation* into purpose-driven tech  
-🌱 Currently exploring **LangChain, LlamaIndex, and multimodal AI systems**  
-💬 Ask me about **GenAI, LLMs, AUTOSAR, and Ethics in AI**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ejazbelgaum10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://arxforge.online">
+    <img src="https://img.shields.io/badge/Live%20Project-arxforge.online-00C853?style=flat"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ejaz029&color=0A66C2&style=flat"/>
 </p>
 
 ---
 
-## 💼 What I Work On
+## About
 
-| 💡 Domain | 💼 Work |
-|-----------|---------|
-| 🚗 **AUTOSAR** | AI-powered .arxml validators using LangGraph + Groq |
-| 🌍 **Justice Tech** | Falasteen.AI – AI for documenting war crimes & media analysis |
-| 🎭 **Deepfake Defense** | Omdena's DeepTruth – AI to detect manipulated content |
-| 🧑‍🎤 **Digital Humans** | AI Avatars with Blender + Bark TTS + NVIDIA Omniverse |
-| 📚 **Interview Prep** | Focused DSA practice for top-tier roles |
-| 🔄 **MLOps** | Building evaluation pipelines for LLM applications |
+Fresher AI Engineer focused on building production-ready Generative AI systems — not just notebooks.
 
----
+I work at the intersection of LLMs, RAG pipelines, and backend engineering. I deployed **ARxForge** (a RAG + LangGraph validation system) live on AWS EC2 with a custom domain, Nginx, and HTTPS. Currently leading a 6-member team at Luxoft building an AUTOSAR validation product.
 
-## 🧰 My Tech Toolbox
-
-### 🛠️ Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,html,css,js,firebase,blender" /> <br/>
-  <img src="https://skillicons.dev/icons?i=streamlit,tensorflow,pytorch,fastapi,langchain" />
-</p>
-
-### 🧿 AI & ML Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-32CD32?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-FF8C00?style=for-the-badge&logo=alpaca&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-00FFFF?style=for-the-badge&logo=groq&logoColor=black"/>
-</p>
-
-### 🧪 DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
-</p>
+- 🔭 Currently working on: AI voice agents and AUTOSAR validation at Luxoft
+- 🌱 Exploring: Multi-agent systems, LLM evaluation pipelines
+- 💬 Ask me about: RAG, LangGraph, Agentic AI, FastAPI, AWS deployment
+- 📫 Reach me at: ejazbelgaum10@gmail.com
+- ⚡ Available immediately for AI Engineer roles
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-### 🔧 AUTOSAR ARXML Validator
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212724708-4ff048bc-68e3-4e4b-bd9d-1d4e9fcd22b7.gif" width="600"/>
-</p>
+**AI / ML**
+`RAG` `LangChain` `LangGraph` `LLMs` `Agentic AI` `FAISS` `HuggingFace` `Groq API` `OpenCV` `Whisper`
 
-⚙ AI-based validator using LangGraph + Groq API to detect UUID issues, broken references & node-level anomalies in .arxml files.
+**Backend & APIs**
+`Python` `FastAPI` `Django REST` `Celery` `Redis` `SQL`
 
-**Tech Stack:** Python, LangGraph, Groq API, XML Processing
-
-**Key Features:**
-- 🧠 Uses advanced LLM reasoning to validate complex AUTOSAR structures
-- 🔄 Custom validation agents for different AUTOSAR components
-- 📊 Visual reporting of validation issues with severity ranking
-- 💾 Integration with CI/CD pipelines for automated validation
-
-<details>
-<summary>📌 View Project Details</summary>
-
-#### Problem Solved:
-AUTOSAR validation is traditionally rule-based and misses semantic errors. This tool uses AI to understand relationships between components and validate at a deeper level.
-
-#### Impact:
-- Reduced validation time by 70%
-- Caught 35% more errors than traditional validators
-- Integrated with automotive CI/CD pipelines
-
-</details>
+**Tools & Cloud**
+`AWS EC2` `Nginx` `Git` `Streamlit` `Docker` `Postman`
 
 ---
 
----
+## Projects
 
-### 🧑‍🎤 AI Avatar – Talking Digital Human
-<p align="center">
-  <img src="https://media.tenor.com/0G_bmA2vSYAAAAd/ai-artificial-intelligence.gif" width="400"/>
-</p>
+### ARxForge — AI Agent for AUTOSAR ARXML Validation
+> RAG + LangGraph system deployed live on AWS EC2
 
-🎤 Voice-to-avatar pipeline using Blender for 3D models, Bark for TTS, and Omniverse for deployment.
+- Processes 1,000+ ARXML nodes with automated UUID, reference, and anomaly checks
+- Reduced manual validation errors by **70%**
+- Deployed with custom domain, Nginx reverse proxy, and HTTPS (Certbot)
+- **Stack:** Python · LangGraph · RAG · Groq API · FAISS · AWS EC2
 
-**Tech Stack:** Blender, NVIDIA Omniverse, Bark TTS, PyTorch, CUDA
-
-**Key Features:**
-- 🎭 Realistic facial expressions synchronized with speech
-- 🗣️ Real-time voice synthesis with emotion control
-- 🧠 Context-aware responses powered by LLM integration
-- 📱 Cross-platform deployment (web, mobile, AR/VR)
-
-<details>
-<summary>📌 View Project Details</summary>
-
-#### Problem Solved:
-Creating realistic digital humans with natural interactions is complex and usually requires extensive manual work. This pipeline automates the process.
-
-#### Impact:
-- Reduced avatar creation time from weeks to days
-- Created accessible interface for non-technical users
-- Deployed in educational applications for interactive learning
-
-</details>
+🔗 **Live:** [arxforge.online](https://arxforge.online) &nbsp;|&nbsp; [GitHub](https://github.com/ejaz029/luxoft-phase2-arxml-comparator)
 
 ---
 
-### 🔍 GenAI Code Analyzer
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</p>
+### AI Voice Agent — Real Estate Assistant
+> Real-time speech-to-speech AI agent
 
-🛡️ Security-focused code analysis tool using LLMs to detect vulnerabilities beyond pattern matching.
+- Speech input transcribed via Whisper (STT), processed through LangChain agent, responded in voice via ElevenLabs (TTS)
+- Conversational memory across multi-turn interactions
+- **Stack:** Python · Whisper · LangChain · ElevenLabs · FastAPI
 
-**Tech Stack:** Python, TypeScript, LlamaIndex, OpenAI API, GitHub Actions
-
-**Key Features:**
-- 🧪 Contextual code analysis across multiple files
-- 🔐 Security vulnerability detection with explanation
-- 📝 Automatic PR comments with fix suggestions
-- 📊 Security metric tracking and visualization
-
-<details>
-<summary>📌 View Project Details</summary>
-
-#### Problem Solved:
-Traditional static analyzers miss context-dependent bugs. This tool uses LLMs to understand code semantics and identify complex vulnerabilities.
-
-#### Impact:
-- Integrated into CI/CD pipelines of 5+ projects
-- Detected 40% more vulnerabilities than traditional linters
-- Reduced security review time by 60%
-
-</details>
+🔗 [GitHub](https://github.com/ejaz029/riverwood-ai_voice-agent_)
 
 ---
 
-## 📈 GitHub Activity
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ejaz029&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=ejaz029&theme=dracula" height="160"/>
-</p>
+**AI Developer · Luxoft** *(Jun 2025 – Present, Remote)*
+Leading a 6-member team building an AUTOSAR ARXML validation system. Built Django REST APIs and React + TailwindCSS frontend for AI-driven semantic comparison.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz029&layout=compact&theme=dracula" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ejaz029&theme=dracula&column=3&row=2" height="160"/>
-</p>
+**Open Source Contributor · Omdena** *(Mar 2025 – May 2025, Remote)*
+Built an automated pipeline to clean 5,000+ deepfake sequences for Project DeepTruth, boosting model training data readiness by 30%.
 
 ---
 
----
+## Certifications
 
-## 🎓 Education & Certifications
-
-- 🏫 B.Tech in Artificial Intelligence & Machine Learning - G M Institute of Technology (Expected 2026)
-- 📜 DeepLearning.AI LLM Specialization
-- 📜 NVIDIA Deep Learning Institute - Fundamentals of Accelerated Computing
-- 📜 HuggingFace NLP Course
+- 📜 [IBM RAG & Agentic AI Professional Certificate](https://coursera.org/verify/GQVLXDBEZFMI) — Coursera
+- 🏆 Google Student Ambassador 2025
 
 ---
 
-## 💭 Final Thought
+## GitHub Stats
 
 <p align="center">
-  <i>"The most powerful code isn't just optimized — it's conscious."</i>
-</p>
-
-<p align="center">
-  <b>Let's build the future where AI defends both systems and society.</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ejaz029&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz029&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ejaz029&color=blueviolet" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/ejaz029?style=social" alt="GitHub followers"/>
+  <i>Open to AI Engineer / GenAI Developer roles — available immediately.</i>
 </p>
