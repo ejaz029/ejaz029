@@ -76,8 +76,8 @@ I work at the intersection of LLMs, RAG pipelines, and backend engineering. I de
 
 ## Experience
 
-**AI Developer · Luxoft** *(Jun 2025 – Present, Remote)*
-Leading a 6-member team building an AUTOSAR ARXML validation system. Built Django REST APIs and React + TailwindCSS frontend for AI-driven semantic comparison.
+**AI Developer · Luxoft** *(June 2025 – may 2026, Remote)*
+Led a 6-member team building an AUTOSAR ARXML validation system. Built Django REST APIs and React + TailwindCSS frontend for AI-driven semantic comparison.
 
 **Open Source Contributor · Omdena** *(Mar 2025 – May 2025, Remote)*
 Built an automated pipeline to clean 5,000+ deepfake sequences for Project DeepTruth, boosting model training data readiness by 30%.
