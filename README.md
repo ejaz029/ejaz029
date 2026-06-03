@@ -24,7 +24,7 @@
 
 ## About
 
-Fresher AI Engineer focused on building production-ready Generative AI systems — not just notebooks.
+ AI Engineer focused on building production-ready Generative AI systems — not just notebooks.
 
 I work at the intersection of LLMs, RAG pipelines, and backend engineering. I deployed **ARxForge** (a RAG + LangGraph validation system) live on AWS EC2 with a custom domain, Nginx, and HTTPS. Currently leading a 6-member team at Luxoft building an AUTOSAR validation product.
 
